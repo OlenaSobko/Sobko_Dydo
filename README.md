@@ -1,9 +1,10 @@
-##Всеукраїнський конкурс молодих учених в галузі інтелектуальних ІТ
+## Всеукраїнський конкурс молодих учених в галузі інтелектуальних ІТ
 
-###METHOD OF NEURAL NETWORK DEFECT DETECTION BASED ON VIBRATION ANALYSIS OF ROTATING MACHINES
-Repository for the project submitted to the competition "All-Ukrainian Competition of Young Scientists in the Field of Intellectual IT" 2024
+## METHOD OF NEURAL NETWORK DEFECT DETECTION BASED ON VIBRATION ANALYSIS OF ROTATING MACHINES
 
-###Authors:
+Repository for the project submitted to the competition "Всеукраїнський конкурс молодих учених в галузі інтелектуальних ІТ" 2024
+
+### Authors:
 Sobko O. V. – PhD student of the Department of Computer Science, Khmelnytskyi National University Khmelnytskyi, Ukraine.
 Dydo R. A. – Bachelor student of the Department of Computer Science, Khmelnytskyi National University Khmelnytskyi, Ukraine.
 
