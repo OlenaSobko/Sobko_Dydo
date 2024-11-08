@@ -6,6 +6,7 @@ Repository for the project submitted to the competition "Всеукраїнсь�
 
 ### Authors:
 Sobko O. V. – PhD student of the Department of Computer Science, Khmelnytskyi National University Khmelnytskyi, Ukraine.
+
 Dydo R. A. – Bachelor student of the Department of Computer Science, Khmelnytskyi National University Khmelnytskyi, Ukraine.
 
 
